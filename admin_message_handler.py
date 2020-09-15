@@ -1,0 +1,3 @@
+
+def handle(message):
+    pass
